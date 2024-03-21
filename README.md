@@ -1,4 +1,3 @@
-## Use
 Open your web browser and go to `https://fakenewstf.web.app/` to start using the app.
 ![Screenshot 2024-03-20 202739](https://github.com/TarunR3/DjangoMisinformation/assets/122135216/fd610207-33f6-4314-978c-cef5c5bc62ca)
 
